@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8c5de92f-96dc-4185-87b6-ee63a2c53fd0" name="Changes" comment="Первая альфа версия &#10;Реализованно:&#10;- Инвентарь&#10;- Предметы&#10;- Торговец&#10;- Персонаж">
+      <change afterPath="$PROJECT_DIR$/src/Battle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ControllerFarLands.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Entity/Container.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entity/Container.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Entity/LifeEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entity/LifeEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Entity/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entity/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Items/Chestplate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Items/Chestplate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Items/Helmet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Items/Helmet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Items/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Items/Item.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Items/Legs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Items/Legs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Items/MainHand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Items/MainHand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2MxSVh3UEVJakTkH6RxjJ9HFS6u" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="MultiThread" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c5de92f-96dc-4185-87b6-ee63a2c53fd0" name="Changes" comment="" />
+      <created>1678707769977</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678707769977</updated>
+      <workItem from="1678707772198" duration="6805000" />
+      <workItem from="1678819216430" duration="3502000" />
+      <workItem from="1679422007927" duration="3189000" />
+      <workItem from="1680338222688" duration="17154000" />
+      <workItem from="1680597276568" duration="1153000" />
+      <workItem from="1680782265786" duration="5878000" />
+    </task>
+    <task id="LOCAL-00001" summary="Первая альфа версия &#10;Реализованно:&#10;- Инвентарь&#10;- Предметы&#10;- Торговец&#10;- Персонаж">
+      <created>1680542496282</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680542496282</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Первая альфа версия &#10;Реализованно:&#10;- Инвентарь&#10;- Предметы&#10;- Торговец&#10;- Персонаж" />
+    <option name="LAST_COMMIT_MESSAGE" value="Первая альфа версия &#10;Реализованно:&#10;- Инвентарь&#10;- Предметы&#10;- Торговец&#10;- Персонаж" />
+  </component>
+</project>
